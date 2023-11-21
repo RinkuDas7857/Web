@@ -1788,10 +1788,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@capacitor-community/bluetooth-le@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@capacitor-community/bluetooth-le/-/bluetooth-le-3.0.0.tgz#93d184cc28995f2606f7910ea9878c0871f79c85"
-  integrity sha512-fBy7EXCg9udMf0xW2lJ9uULftJWapSkEFp4WccQZbJjS5vrA146jOGp3dTMnZWPph1wTKAF0dHLCLyBoVDk1vg==
+"@capacitor-community/bluetooth-le@3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@capacitor-community/bluetooth-le/-/bluetooth-le-3.1.1.tgz#3d9b6c96ad9f57b2d115d356fbf1cb71fcf4b7e6"
+  integrity sha512-ymKt9aEhkMD1ER8976bZ4JVywcmSnLAUjaL6SZp+pytp02yNxzqhvyxCw2gLGEMqjEXC7urL/RtUN5ELf2oZfA==
   dependencies:
     "@types/web-bluetooth" "^0.0.16"
 
